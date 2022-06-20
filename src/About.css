@@ -1,0 +1,17 @@
+#about {
+    min-height:100vh;
+}
+
+.link, .link:hover{
+    text-decoration:none;
+    color: inherit;
+    font-weight: bolder;
+}
+.link:hover{
+    color: black;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    max-height:35%;
+}
