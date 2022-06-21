@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PersonalSite/static/css/main.5d9c855b.css",
+    "main.js": "/PersonalSite/static/js/main.fc003673.js",
+    "static/js/787.3ba5e41c.chunk.js": "/PersonalSite/static/js/787.3ba5e41c.chunk.js",
+    "static/media/HomepageLoggedIn.png": "/PersonalSite/static/media/HomepageLoggedIn.e5162e4736256345e4b1.png",
+    "static/media/Companies.png": "/PersonalSite/static/media/Companies.8b53bb3b4ab981faef05.png",
+    "static/media/Profile.png": "/PersonalSite/static/media/Profile.4fada5d5a97b3ba33ee9.png",
+    "static/media/CompanyDetail.png": "/PersonalSite/static/media/CompanyDetail.46dee01521ef5213dcd3.png",
+    "static/media/Jobs.png": "/PersonalSite/static/media/Jobs.5ddc900bc4bd00e4d111.png",
+    "static/media/Homepage.png": "/PersonalSite/static/media/Homepage.36396f22938895827c2f.png",
+    "static/media/Users.png": "/PersonalSite/static/media/Users.c412ffb36fdc4ec85c51.png",
+    "static/media/RL-profile-pic.jpeg": "/PersonalSite/static/media/RL-profile-pic.a708eb743ffa80db580a.jpeg",
+    "static/media/Main.png": "/PersonalSite/static/media/Main.6d9b606887546cde2657.png",
+    "static/media/Signup.png": "/PersonalSite/static/media/Signup.8be97740a233d9b560e8.png",
+    "index.html": "/PersonalSite/index.html",
+    "main.5d9c855b.css.map": "/PersonalSite/static/css/main.5d9c855b.css.map",
+    "main.fc003673.js.map": "/PersonalSite/static/js/main.fc003673.js.map",
+    "787.3ba5e41c.chunk.js.map": "/PersonalSite/static/js/787.3ba5e41c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d9c855b.css",
+    "static/js/main.fc003673.js"
+  ]
+}
