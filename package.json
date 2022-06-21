@@ -2,7 +2,7 @@
   "name": "personal-site",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://robynlgy.github.io/PersonalSite",
+  "homepage":"https://robynlgy.github.io/Personal-Site",
   "dependencies": {
     "@iconscout/react-unicons": "^1.1.6",
     "@testing-library/jest-dom": "^5.16.4",
