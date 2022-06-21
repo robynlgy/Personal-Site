@@ -5,6 +5,7 @@ import LoadingSpinner from "./shared/LoadingSpinner";
 import Navbar from "./Navbar";
 import Title from "./Title"
 import About from "./About"
+import Projects from "./Projects"
 import { ReactElement, useEffect, useState } from "react";
 
 function App(): ReactElement {
@@ -28,6 +29,7 @@ function App(): ReactElement {
         <Navbar />
         <Title/>
         <About/>
+        <Projects/>
       </BrowserRouter>
     </div>
   );
