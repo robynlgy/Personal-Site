@@ -7,7 +7,7 @@ import "./Navbar.css";
 
 export default function NavBar(): ReactElement {
   return (
-    <Navbar expand="md">
+    <Navbar expand="md" className="sticky-top navbar">
       <Navbar.Brand href="#home" className="navbar-brand">
         Robyn Lam
       </Navbar.Brand>

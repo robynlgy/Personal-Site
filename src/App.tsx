@@ -6,6 +6,7 @@ import Navbar from "./Navbar";
 import Title from "./Title"
 import About from "./About"
 import Projects from "./Projects"
+import Contact from "./Contact"
 import { ReactElement, useEffect, useState } from "react";
 
 function App(): ReactElement {
@@ -30,6 +31,7 @@ function App(): ReactElement {
         <Title/>
         <About/>
         <Projects/>
+        <Contact/>
       </BrowserRouter>
     </div>
   );

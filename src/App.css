@@ -3,3 +3,12 @@ body {
   background-color: #edede9;
   text-align: center;
 }
+
+a, a:hover{
+  text-decoration:none;
+  color: inherit;
+}
+
+a:hover{
+  color: black;
+}
