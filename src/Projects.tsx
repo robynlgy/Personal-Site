@@ -68,7 +68,7 @@ export default function Projects(): ReactElement {
           <div className="card-body">
             <h5 className="card-title">Jobly</h5>
             <p className="card-text">
-              A fullstack job search application built with a React front-end, Express RESTful API and PostgreSQL database. The API includes full CRUD capabilties on companies, jobs and users and the option to filter by queries. Authorization is required for both front and back-end for select endpoints.
+              A full-stack job search application built with a React front-end, Express RESTful API and PostgreSQL database. The API includes full CRUD capabilties on companies, jobs and users and the option to filter by queries. Authorization is required for both front and back-end for select endpoints.
             </p>
             <div className="text-center">
               <a href="https://jobly-robyn.surge.sh/" className="btn btn-outline-dark mx-2">
@@ -167,7 +167,7 @@ export default function Projects(): ReactElement {
           <div className="card-body">
             <h5 className="card-title">ShareBnB</h5>
             <p className="card-text">
-            A full stack application with React frontend and a RESTful API backend to register user accounts, create and edit listings with image upload functionality. Images are saved to Amazon S3 bucket while rest of the data is saved to a PostgreSQL database.
+            A full-stack application with React frontend and a RESTful API backend to register user accounts, create and edit listings with image upload functionality. Images are saved to Amazon S3 bucket while rest of the data is saved to a PostgreSQL database.
             </p>
             <div className="text-center">
               <a href="https://github.com/robynlgy/ShareBnB" className="btn btn-outline-dark mx-2">
