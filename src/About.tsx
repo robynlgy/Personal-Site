@@ -5,7 +5,7 @@ import ProfilePic from "./images/RL-profile-pic.jpeg";
 
 export default function About(): ReactElement {
   return (
-    <section id="about" className="text-start">
+    <section id="about" className="text-start pt-5">
       <h2 className="display-4 pt-5">About Me</h2>
       <hr />
       <div className="row">
@@ -53,6 +53,11 @@ export default function About(): ReactElement {
         <div className="col-md-1 order-2" />
         <div className="col-md-1 my-2 mt-md-4 pt-md-5 order-1 order-md-3 text-center">
           <img src={ProfilePic} alt="profile" className="profile-pic" />
+        </div>
+      </div>
+      <div className="row">
+        <div className="col text-start mt-5">
+          <a href="https://docs.google.com/document/d/1JCXXrlIAY3aUjQ_yeFqcgXabX6qaZ7CEH7KsD0yH6MI/edit" target="_blank" rel="noopener noreferrer" className="btn btn-outline-dark">View Resume</a>
         </div>
       </div>
     </section>

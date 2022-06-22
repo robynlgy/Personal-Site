@@ -21,12 +21,12 @@ import productiv3 from "./images/productiv/AddedTodo.png";
 
 export default function Projects(): ReactElement {
   return (
-    <section id="projects" className="text-start">
+    <section id="projects" className="text-start pt-5">
       <h2 className="display-4 pt-5">Projects</h2>
       <hr />
       <div className="row justify-content-around mt-2 card-deck">
         {/* JOBLY */}
-        <div className="col-lg-3 col-md-6 px-1">
+        <div className="col-xxl-3 col-md-6 px-1">
         <div className="card bg-light my-2 mx-0">
           <Carousel className="mt-2">
             <Carousel.Item>
@@ -71,10 +71,10 @@ export default function Projects(): ReactElement {
               A fullstack job search application built with a React front-end, Express RESTful API and PostgreSQL database. The API includes full CRUD capabilties on companies, jobs and users and the option to filter by queries. Authorization is required for both front and back-end for select endpoints.
             </p>
             <div className="text-center">
-              <a href="https://jobly-robyn.surge.sh/" className="btn btn-dark mx-2">
+              <a href="https://jobly-robyn.surge.sh/" className="btn btn-outline-dark mx-2">
                 View Demo
               </a>
-              <a href="https://github.com/robynlgy/react-jobly" className="btn btn-dark mx-2">
+              <a href="https://github.com/robynlgy/react-jobly" className="btn btn-outline-dark mx-2">
                 Github
               </a>
             </div>
@@ -83,7 +83,7 @@ export default function Projects(): ReactElement {
         </div>
 
         {/* Warbler */}
-        <div className="col-lg-3 col-md-6 px-1">
+        <div className="col-xxl-3 col-md-6 px-1">
         <div className="card bg-light my-2">
           <Carousel className="mt-2">
             <Carousel.Item>
@@ -128,10 +128,10 @@ export default function Projects(): ReactElement {
            A full-stack Twitter clone application. Users can create an account, search for and follow/unfollow other users, like/dislike messages from other users, and perform CRUD operations on their own messages. Authorization is required to access the main contents of the app.
             </p>
             <div className="text-center">
-              <a href="https://warbler-demo-050822.herokuapp.com/" className="btn btn-dark mx-2">
+              <a href="https://warbler-demo-050822.herokuapp.com/" className="btn btn-outline-dark mx-2">
                 View Demo
               </a>
-              <a href="https://github.com/robynlgy/Flask-warbler" className="btn btn-dark mx-2">
+              <a href="https://github.com/robynlgy/Flask-warbler" className="btn btn-outline-dark mx-2">
                 Github
               </a>
             </div>
@@ -139,7 +139,7 @@ export default function Projects(): ReactElement {
         </div>
         </div>
         {/* ShareBnB */}
-        <div className="col-lg-3 col-md-6 px-1">
+        <div className="col-xxl-3 col-md-6 px-1">
         <div className="card bg-light my-2">
           <Carousel className="mt-2">
             <Carousel.Item>
@@ -170,7 +170,7 @@ export default function Projects(): ReactElement {
             A full stack application with React frontend and a RESTful API backend to register user accounts, create and edit listings with image upload functionality. Images are saved to Amazon S3 bucket while rest of the data is saved to a PostgreSQL database.
             </p>
             <div className="text-center">
-              <a href="https://github.com/robynlgy/ShareBnB" className="btn btn-dark mx-2">
+              <a href="https://github.com/robynlgy/ShareBnB" className="btn btn-outline-dark mx-2">
                 Github
               </a>
             </div>
@@ -178,7 +178,7 @@ export default function Projects(): ReactElement {
         </div>
         </div>
         {/* Productiv */}
-        <div className="col-lg-3 col-md-6 px-1">
+        <div className="col-xxl-3 col-md-6 px-1">
         <div className="card bg-light my-2">
           <Carousel className="mt-2">
             <Carousel.Item>
@@ -209,7 +209,7 @@ export default function Projects(): ReactElement {
             Productiv is a todo list built with React. Users can create and edit todos with descriptions and set priorities. Users can also get productive quotes from inspo-quotes!
             </p>
             <div className="text-center">
-              <a href="https://github.com/robynlgy/react-productiv" className="btn btn-dark mx-2">
+              <a href="https://github.com/robynlgy/react-productiv" className="btn btn-outline-dark mx-2">
                 Github
               </a>
             </div>
